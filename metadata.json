@@ -1,0 +1,6 @@
+{
+  "name": "Himalayan Flames House of Momo",
+  "description": "Premium modern momo and North Indian street-food restaurant in Bapunagar, Ahmedabad. Authentic Momos, Bold Flavours, Himalayan Soul.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,515 @@
+{
+  "settings": {
+    "name": "Himalayan Flames House of Momo",
+    "tagline": "Authentic Momos. Bold Flavours. Himalayan Soul.",
+    "description": "Located in Bapunagar, Ahmedabad, Himalayan Flames House of Momo brings you authentic mountain culinary traditions. From steaming hot Kathmandu Jhol Momos and ultra-crisp Kurkure Cheese Momos to fiery wok-tossed Asian street delights, we prepare every dish fresh with uncompromised hygiene and bold Himalayan spices.",
+    "category": "North Indian / Momo Restaurant",
+    "address": "Lal Bahadur Shastri Rd, below Sankalp Restaurant, opposite Kankadiya Hospital, Shaktidhara Society, Bapunagar, Ahmedabad, Gujarat 380024",
+    "landmark": "Below Sankalp Restaurant, Opposite Kankadiya Hospital",
+    "plusCode": "2JQJ+XF Ahmedabad, Gujarat",
+    "phone": "+91 98765 43210",
+    "whatsapp": "919876543210",
+    "instagram": "https://instagram.com/himalayanflames.momo",
+    "googleMapsUrl": "https://maps.google.com/?q=2JQJ%2BXF+Ahmedabad,+Gujarat",
+    "openingHours": "Mon - Sun: 11:30 AM - 11:00 PM",
+    "priceRange": "₹1–200 per person",
+    "ratingValue": 4.9,
+    "reviewCount": 48,
+    "logo": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?q=80&w=200&auto=format&fit=crop",
+    "heroImage": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?q=80&w=1600&auto=format&fit=crop",
+    "features": {
+      "freshlyPrepared": true,
+      "hygienic": true,
+      "multipleVarieties": true,
+      "dineIn": true,
+      "driveThrough": true,
+      "noContactDelivery": true
+    }
+  },
+  "categories": [
+    {
+      "id": "cat-momos",
+      "name": "Momos",
+      "description": "Classic steamed & fried authentic Himalayan dumplings",
+      "displayOrder": 1,
+      "active": true
+    },
+    {
+      "id": "cat-jhol",
+      "name": "Jhol Momos",
+      "description": "Immersed in spiced Kathmandu sesame-tomato broth",
+      "displayOrder": 2,
+      "active": true
+    },
+    {
+      "id": "cat-kurkure",
+      "name": "Kurkure / Crunchy Momos",
+      "description": "Super crunchy double-coated golden crust with peri-peri dust",
+      "displayOrder": 3,
+      "active": true
+    },
+    {
+      "id": "cat-cheese",
+      "name": "Cheese Momos",
+      "description": "Loaded with melted mozzarella & mountain herbs",
+      "displayOrder": 4,
+      "active": true
+    },
+    {
+      "id": "cat-chilli",
+      "name": "Chilli Momos",
+      "description": "Wok-tossed in fiery Asian garlic soy glaze with peppers",
+      "displayOrder": 5,
+      "active": true
+    },
+    {
+      "id": "cat-noodles",
+      "name": "Noodles",
+      "description": "Wok-tossed street noodles with fresh crisp veggies",
+      "displayOrder": 6,
+      "active": true
+    },
+    {
+      "id": "cat-soups",
+      "name": "Soups",
+      "description": "Traditional Himalayan Thukpa and peppery broths",
+      "displayOrder": 7,
+      "active": true
+    },
+    {
+      "id": "cat-beverages",
+      "name": "Other Food & Beverages",
+      "description": "Himalayan coolers, masala chaas & sides",
+      "displayOrder": 8,
+      "active": true
+    }
+  ],
+  "menuItems": [
+    {
+      "id": "item-1",
+      "categoryId": "cat-momos",
+      "name": "Classic Steamed Veg Momo",
+      "description": "Handcrafted dumplings filled with finely shredded cabbage, carrots, spring onions, and Himalayan spices. Served with fiery red chilli dip.",
+      "price": 99,
+      "image": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?q=80&w=800&auto=format&fit=crop",
+      "veg": true,
+      "bestseller": false,
+      "recommended": true,
+      "active": true,
+      "displayOrder": 1,
+      "createdAt": "2026-09-15T10:41:26.534Z",
+      "updatedAt": "2026-09-15T10:41:26.534Z"
+    },
+    {
+      "id": "item-2",
+      "categoryId": "cat-momos",
+      "name": "Steamed Mountain Paneer Momo",
+      "description": "Soft cottage cheese infused with black pepper, coriander and ginger in tender thin-skin momo dough. Juicy and aromatic.",
+      "price": 119,
+      "image": "https://images.unsplash.com/photo-1625398407796-82650a8c135f?q=80&w=800&auto=format&fit=crop",
+      "veg": true,
+      "bestseller": true,
+      "recommended": true,
+      "active": true,
+      "displayOrder": 2,
+      "createdAt": "2026-09-15T10:41:26.534Z",
+      "updatedAt": "2026-09-15T10:41:26.534Z"
+    },
+    {
+      "id": "item-3",
+      "categoryId": "cat-momos",
+      "name": "Golden Fried Veg Momo",
+      "description": "Crisp golden fried dumplings with juicy vegetable stuffing, tossed in light aromatic herbs. Served with cooling mayo and hot red sauce.",
+      "price": 109,
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?q=80&w=800&auto=format&fit=crop",
+      "veg": true,
+      "bestseller": false,
+      "recommended": false,
+      "active": true,
+      "displayOrder": 3,
+      "createdAt": "2026-09-15T10:41:26.534Z",
+      "updatedAt": "2026-09-15T10:41:26.534Z"
+    },
+    {
+      "id": "item-4",
+      "categoryId": "cat-jhol",
+      "name": "Himalayan Jhol Veg Momo",
+      "description": "Signature Kathmandu style steamed momos submerged in hot, sour and nutty sesame-soybean tomato broth with roasted cumin.",
+      "price": 139,
+      "image": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?q=80&w=800&auto=format&fit=crop",
+      "veg": true,
+      "bestseller": true,
+      "recommended": true,
+      "active": true,
+      "displayOrder": 1,
+      "createdAt": "2026-09-15T10:41:26.534Z",
+      "updatedAt": "2026-09-15T10:41:26.534Z"
+    },
+    {
+      "id": "item-5",
+      "categoryId": "cat-jhol",
+      "name": "Paneer Jhol Momo Bowl",
+      "description": "Rich paneer dumplings drenched in rich aromatic Himalayan jhol soup garnished with fresh coriander, spring onion and lemon zest.",
+      "price": 159,
+      "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?q=80&w=800&auto=format&fit=crop",
+      "veg": true,
+      "bestseller": false,
+      "recommended": true,
+      "active": true,
+      "displayOrder": 2,
+      "createdAt": "2026-09-15T10:41:26.534Z",
+      "updatedAt": "2026-09-15T10:41:26.534Z"
+    },
+    {
+      "id": "item-6",
+      "categoryId": "cat-kurkure",
+      "name": "Signature Kurkure Cheese Momo",
+      "description": "Coated with crunchy spiced flakes and fried to shattering perfection, filled with molten cheese. Ahmedabad's favourite crunch!",
+      "price": 169,
+      "image": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?q=80&w=800&auto=format&fit=crop",
+      "veg": true,
+      "bestseller": true,
+      "recommended": true,
+      "active": true,
+      "displayOrder": 1,
+      "createdAt": "2026-09-15T10:41:26.534Z",
+      "updatedAt": "2026-09-15T10:41:26.534Z"
+    },
+    {
+      "id": "item-7",
+      "categoryId": "cat-kurkure",
+      "name": "Crispy Kurkure Veg Momo",
+      "description": "Crunchy crumb coated momos dusted with fiery Himalayan peri-peri seasoning. Served with mint dip and garlic chilli chutney.",
+      "price": 149,
+      "image": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?q=80&w=800&auto=format&fit=crop",
+      "veg": true,
+      "bestseller": true,
+      "recommended": false,
+      "active": true,
+      "displayOrder": 2,
+      "createdAt": "2026-09-15T10:41:26.534Z",
+      "updatedAt": "2026-09-15T10:41:26.534Z"
+    },
+    {
+      "id": "item-8",
+      "categoryId": "cat-cheese",
+      "name": "Melted Cheese Corn Momo",
+      "description": "Sweet American golden corn blended with melted mozzarella and cheddar cheese with mild Italian seasoning. Cheesy delight in every bite.",
+      "price": 159,
+      "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=800&auto=format&fit=crop",
+      "veg": true,
+      "bestseller": true,
+      "recommended": true,
+      "active": true,
+      "displayOrder": 1,
+      "createdAt": "2026-09-15T10:41:26.534Z",
+      "updatedAt": "2026-09-15T10:41:26.534Z"
+    },
+    {
+      "id": "item-9",
+      "categoryId": "cat-cheese",
+      "name": "Cheese Burst Momo Special",
+      "description": "Steamed and grilled dumplings infused with double cheese core that oozes creamy warmth. Served with garlic dip.",
+      "price": 179,
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=800&auto=format&fit=crop",
+      "veg": true,
+      "bestseller": false,
+      "recommended": true,
+      "active": true,
+      "displayOrder": 2,
+      "createdAt": "2026-09-15T10:41:26.534Z",
+      "updatedAt": "2026-09-15T10:41:26.534Z"
+    },
+    {
+      "id": "item-10",
+      "categoryId": "cat-chilli",
+      "name": "Fiery Chilli Veg Momo",
+      "description": "Crispy fried momos wok-tossed with red and green bell peppers, diced onions, garlic and dark soy glaze. Spicy and bold.",
+      "price": 149,
+      "image": "https://images.unsplash.com/photo-1585032226651-759b368d7246?q=80&w=800&auto=format&fit=crop",
+      "veg": true,
+      "bestseller": true,
+      "recommended": true,
+      "active": true,
+      "displayOrder": 1,
+      "createdAt": "2026-09-15T10:41:26.534Z",
+      "updatedAt": "2026-09-15T10:41:26.534Z"
+    },
+    {
+      "id": "item-11",
+      "categoryId": "cat-chilli",
+      "name": "Schezwan Chilli Paneer Momo",
+      "description": "Tender paneer momos tossed in chef's special homemade Himalayan Schezwan sauce, garnished with toasted sesame and green scallions.",
+      "price": 169,
+      "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=800&auto=format&fit=crop",
+      "veg": true,
+      "bestseller": false,
+      "recommended": true,
+      "active": true,
+      "displayOrder": 2,
+      "createdAt": "2026-09-15T10:41:26.534Z",
+      "updatedAt": "2026-09-15T10:41:26.534Z"
+    },
+    {
+      "id": "item-12",
+      "categoryId": "cat-noodles",
+      "name": "Hakka Street Veg Noodles",
+      "description": "Wok-seared thin noodles tossed with crunchy cabbage, julienned carrots, capsicum and light garlic soy seasoning.",
+      "price": 129,
+      "image": "https://images.unsplash.com/photo-1585032226651-759b368d7246?q=80&w=800&auto=format&fit=crop",
+      "veg": true,
+      "bestseller": false,
+      "recommended": true,
+      "active": true,
+      "displayOrder": 1,
+      "createdAt": "2026-09-15T10:41:26.534Z",
+      "updatedAt": "2026-09-15T10:41:26.534Z"
+    },
+    {
+      "id": "item-13",
+      "categoryId": "cat-noodles",
+      "name": "Spicy Schezwan Garlic Noodles",
+      "description": "Fiery wok-tossed noodles with crushed red chillies, burned garlic and fresh vegetables for bold Asian kick.",
+      "price": 149,
+      "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?q=80&w=800&auto=format&fit=crop",
+      "veg": true,
+      "bestseller": true,
+      "recommended": false,
+      "active": true,
+      "displayOrder": 2,
+      "createdAt": "2026-09-15T10:41:26.534Z",
+      "updatedAt": "2026-09-15T10:41:26.534Z"
+    },
+    {
+      "id": "item-14",
+      "categoryId": "cat-soups",
+      "name": "Traditional Himalayan Thukpa",
+      "description": "Authentic Tibetan comfort noodle soup simmered with ginger, garlic, cilantro, aromatic mountain spices and hearty veggies.",
+      "price": 139,
+      "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?q=80&w=800&auto=format&fit=crop",
+      "veg": true,
+      "bestseller": true,
+      "recommended": true,
+      "active": true,
+      "displayOrder": 1,
+      "createdAt": "2026-09-15T10:41:26.534Z",
+      "updatedAt": "2026-09-15T10:41:26.534Z"
+    },
+    {
+      "id": "item-15",
+      "categoryId": "cat-soups",
+      "name": "Hot & Sour Vegetable Soup",
+      "description": "Classic tangy and peppery warming broth loaded with finely chopped mushrooms, bamboo shoots and shredded vegetables.",
+      "price": 109,
+      "image": "https://images.unsplash.com/photo-1547592180-85f173990554?q=80&w=800&auto=format&fit=crop",
+      "veg": true,
+      "bestseller": false,
+      "recommended": false,
+      "active": true,
+      "displayOrder": 2,
+      "createdAt": "2026-09-15T10:41:26.534Z",
+      "updatedAt": "2026-09-15T10:41:26.534Z"
+    },
+    {
+      "id": "item-16",
+      "categoryId": "cat-beverages",
+      "name": "Mountain Mint Iced Cooler",
+      "description": "Freshly muddled garden mint, zesty lemon, Himalayan rock salt and chilled soda. The ultimate palate refresher.",
+      "price": 79,
+      "image": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?q=80&w=800&auto=format&fit=crop",
+      "veg": true,
+      "bestseller": true,
+      "recommended": true,
+      "active": true,
+      "displayOrder": 1,
+      "createdAt": "2026-09-15T10:41:26.534Z",
+      "updatedAt": "2026-09-15T10:41:26.534Z"
+    },
+    {
+      "id": "item-17",
+      "categoryId": "cat-beverages",
+      "name": "Spiced Himalayan Masala Chaas",
+      "description": "Traditional churned curd whipped with roasted cumin seeds, green chillies, ginger and mountain black salt.",
+      "price": 49,
+      "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?q=80&w=800&auto=format&fit=crop",
+      "veg": true,
+      "bestseller": false,
+      "recommended": false,
+      "active": true,
+      "displayOrder": 2,
+      "createdAt": "2026-09-15T10:41:26.534Z",
+      "updatedAt": "2026-09-15T10:41:26.534Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "customerName": "Bhavik Patel",
+      "rating": 5,
+      "review": "Hands down the best Kurkure momos in Ahmedabad! The crunch is unmatched and the chutney has that authentic mountain punch. A must-visit in Bapunagar!",
+      "status": "approved",
+      "featured": true,
+      "createdAt": "2026-09-12T10:41:26.535Z"
+    },
+    {
+      "id": "rev-2",
+      "customerName": "Pooja Shah",
+      "rating": 5,
+      "review": "The Himalayan Jhol momos reminded me of my trip to Kathmandu. The warm sesame soup broth is heavenly, especially on chilly evenings. Outstanding quality and so hygienic.",
+      "status": "approved",
+      "featured": true,
+      "createdAt": "2026-09-08T10:41:26.535Z"
+    },
+    {
+      "id": "rev-3",
+      "customerName": "Rahul Joshi",
+      "rating": 5,
+      "review": "Below Sankalp in Bapunagar - such an amazing hidden gem! Cheese burst momos are incredible. Fast service, very hygienic packaging and friendly staff.",
+      "status": "approved",
+      "featured": true,
+      "createdAt": "2026-09-03T10:41:26.535Z"
+    },
+    {
+      "id": "rev-4",
+      "customerName": "Neha Mehta",
+      "rating": 5,
+      "review": "Clean ambience, reasonable pricing under ₹150, and authentic bold flavours. The chilli paneer momos had the perfect wok char! 5 stars easily.",
+      "status": "approved",
+      "featured": true,
+      "createdAt": "2026-08-28T10:41:26.535Z"
+    },
+    {
+      "id": "rev-5",
+      "customerName": "Ankit Sharma",
+      "rating": 4,
+      "review": "Loved the Thukpa soup and Steamed Paneer Momos. Very fresh dough and hot dipping sauce. Great value for money.",
+      "status": "approved",
+      "featured": false,
+      "createdAt": "2026-08-24T10:41:26.535Z"
+    },
+    {
+      "id": "rev-demo-pending",
+      "customerName": "Vikram Desai",
+      "rating": 5,
+      "review": "Visited yesterday with family. Tried 4 varieties and all were top notch. Waiting to come back for the Jhol momos!",
+      "status": "pending",
+      "featured": false,
+      "createdAt": "2026-09-15T10:41:26.535Z"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gal-1",
+      "image": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?q=80&w=800&auto=format&fit=crop",
+      "caption": "Signature Steamed Himalayan Momos with spicy sesame chutney",
+      "active": true,
+      "displayOrder": 1,
+      "createdAt": "2026-09-15T10:41:26.535Z"
+    },
+    {
+      "id": "gal-2",
+      "image": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?q=80&w=800&auto=format&fit=crop",
+      "caption": "Crispy Kurkure Cheese Momos with double-crunch coating",
+      "active": true,
+      "displayOrder": 2,
+      "createdAt": "2026-09-15T10:41:26.535Z"
+    },
+    {
+      "id": "gal-3",
+      "image": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?q=80&w=800&auto=format&fit=crop",
+      "caption": "Warm Kathmandu style spiced sesame-tomato Jhol momo bowl",
+      "active": true,
+      "displayOrder": 3,
+      "createdAt": "2026-09-15T10:41:26.535Z"
+    },
+    {
+      "id": "gal-4",
+      "image": "https://images.unsplash.com/photo-1585032226651-759b368d7246?q=80&w=800&auto=format&fit=crop",
+      "caption": "Fiery Wok-Tossed Chilli Momos with bell peppers and scallions",
+      "active": true,
+      "displayOrder": 4,
+      "createdAt": "2026-09-15T10:41:26.535Z"
+    },
+    {
+      "id": "gal-5",
+      "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?q=80&w=800&auto=format&fit=crop",
+      "caption": "Traditional comforting Himalayan vegetable Thukpa noodle soup",
+      "active": true,
+      "displayOrder": 5,
+      "createdAt": "2026-09-15T10:41:26.535Z"
+    },
+    {
+      "id": "gal-6",
+      "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?q=80&w=800&auto=format&fit=crop",
+      "caption": "Hygienic open kitchen and fresh ingredient preparation",
+      "active": true,
+      "displayOrder": 6,
+      "createdAt": "2026-09-15T10:41:26.535Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-101",
+      "customerName": "Jayesh Solanki",
+      "customerPhone": "9825012345",
+      "items": [
+        {
+          "itemId": "item-6",
+          "name": "Signature Kurkure Cheese Momo",
+          "price": 169,
+          "quantity": 2
+        },
+        {
+          "itemId": "item-4",
+          "name": "Himalayan Jhol Veg Momo",
+          "price": 139,
+          "quantity": 1
+        }
+      ],
+      "total": 477,
+      "notes": "Please pack extra spicy red chutney and mayo dip.",
+      "status": "Contacted",
+      "createdAt": "2026-09-15T08:41:26.535Z"
+    },
+    {
+      "id": "ord-102",
+      "customerName": "Ritu Dave",
+      "customerPhone": "9879054321",
+      "items": [
+        {
+          "itemId": "item-8",
+          "name": "Melted Cheese Corn Momo",
+          "price": 159,
+          "quantity": 1
+        },
+        {
+          "itemId": "item-12",
+          "name": "Hakka Street Veg Noodles",
+          "price": 129,
+          "quantity": 1
+        },
+        {
+          "itemId": "item-16",
+          "name": "Mountain Mint Iced Cooler",
+          "price": 79,
+          "quantity": 2
+        }
+      ],
+      "total": 446,
+      "notes": "Drive-through pick-up in 20 mins.",
+      "status": "New",
+      "createdAt": "2026-09-15T10:11:26.535Z"
+    }
+  ],
+  "admins": [
+    {
+      "id": "adm-1",
+      "email": "admin@himalayanflames.com",
+      "role": "admin",
+      "name": "Restaurant Owner",
+      "passwordHash": "64894e712f5c45e6d9bbd81955a1f43c00794784789fbf18f016d6482706f67d58527f505a4513e7843ee43b6964dea7b5a3f72410e41efef6e88c80a2511d24",
+      "salt": "f23424d6ded76912bf160cdc55d6a273",
+      "createdAt": "2026-09-15T10:41:26.600Z"
+    }
+  ]
+}
